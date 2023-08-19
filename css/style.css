@@ -133,7 +133,6 @@ td{
 .header{
     padding: 1rem 3%;
     display: flex;
-    float: left;
     justify-content: space-between;
     align-items: center;
     position: fixed;
@@ -145,7 +144,6 @@ td{
     box-shadow: 0rem 0.5rem 1.5rem rgba(0, 0, 0, .1);
     height: 12rem;
     width: 100%;
-    overflow: hidden;
 }
 
 
@@ -193,7 +191,6 @@ td{
 
 
 /* Media Queries */
-
 
 
 
