@@ -131,7 +131,7 @@ td{
 /* navbar sections starts */
 .header{
     padding: 1rem 3%;
-    display: block;
+    display: flex;
     float: left;
     justify-content: space-between;
     align-items: center;
